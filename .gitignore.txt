@@ -1,0 +1,7 @@
+Library/
+Logs/
+UserSettings/
+.vscode/
+Temp/
+Build/
+Builds/
